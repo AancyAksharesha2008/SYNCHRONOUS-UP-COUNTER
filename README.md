@@ -42,8 +42,8 @@ Simulate the design with different clk and rstn combinations to generate the tim
 
  Program for flipflops and verify its truth table in quartus using Verilog programming. 
 ````
-Developed by:MUTHUAKASH M
-RegisterNumber:212225230194
+Developed by:Aancy Aksharesha A
+RegisterNumber:212225040003
 
 module up(out,clk,rstn);
 input clk,rstn;
